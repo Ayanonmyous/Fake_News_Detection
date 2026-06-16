@@ -1,2 +1,2 @@
 # Fake_News_Detection
-Detecting Fake News using Ididf vectorization and Passive Aggressive Classifier
+Detecting Fake News using TfidfVectorizer and Passive Aggressive Classifier
